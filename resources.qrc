@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Calculadora_en_US.qm</file>
+        <file>Calculadora_ru.qm</file>
+        <file>Calculadora_fr.qm</file>
+    </qresource>
+</RCC>
